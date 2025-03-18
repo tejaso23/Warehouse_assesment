@@ -1,6 +1,7 @@
-streamlit
+streamlit==1.29.0
 pandas
 openpyxl
 python-dotenv
 requests
 pyairtable
+plotly
