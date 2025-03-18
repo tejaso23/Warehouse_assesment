@@ -1,7 +1,7 @@
 # Warehouse Management System (WMS)
 
 This is a Warehouse Management System (WMS) application built using Streamlit. It helps manage inventory, sales, and other warehouse operations efficiently.
-
+## Provide processed_inventory.xlsx file to app
 ## Live Demo
 [WMS App](https://tejaso23-warehouse-assesment-app-c6oncq.streamlit.app/)
 
